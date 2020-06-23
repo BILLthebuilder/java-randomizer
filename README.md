@@ -1,2 +1,3 @@
 # java-randomizer
-Simple randomizer applications
+
+Simple java applications
