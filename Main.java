@@ -3,25 +3,27 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.WindowEvent;
 import java.awt.event.WindowListener;
+import java.util.ArrayList;
 
 public class Main extends Frame implements ActionListener, WindowListener {
     TextField textField;
     Label label;
     Button button;
-    int numbers[] = new int[10];
+    //int numbers[] = new int[10];
+    ArrayList<Integer>numbers = new ArrayList<Integer>();
     int counter = 0;
     
     String output = " ";
 
     Main() {
         setTitle("Array Sort");
-        setSize(400, 400);
+        setSize(800, 800);
         setLayout(null);
         setVisible(true);
         addWindowListener(this);
         setResizable(false);
         label = new Label();
-        label.setBounds(50, 50, 200, 20);
+        label.setBounds(50, 50, 800, 20);
         textField = new TextField();
         textField.setBounds(50, 80, 200, 20);
         button = new Button("Add");
@@ -34,7 +36,7 @@ public class Main extends Frame implements ActionListener, WindowListener {
     
     int[] expand(int[] arr) {
         int[] newArray = new int[arr.length + 1];
-        System.arraycopy(numbers, 0, newArray, 0, arr.length);
+        System.arraycopy(arr, 0, newArray, 0, arr.length);
 
         // an alternative to using System.arraycopy would be a for-loop:
         // for(int i = 0; i < OrigArray.length; i++)
@@ -45,15 +47,19 @@ public class Main extends Frame implements ActionListener, WindowListener {
         String input = textField.getText();
         textField.setText("");
         int num = Integer.parseInt(input);
-        numbers[counter] = num;
+        numbers.add(num);
+        // numbers[counter] = num;
+        // if (numbers.length > 10) {
+        //     expand(numbers); 
+        // }
         counter += 1;
         int numAtIndex;
-        output = " ";
-        for (int i = 0; i < counter; i++) {
-            numAtIndex = numbers[i];
-            output += String.valueOf(numAtIndex);
-            output += " ";
-        }
+        //output = " ";
+        // for (int i = 0; i < counter; i++) {
+        //     numAtIndex = numbers[i];
+            output += String.valueOf(num);
+            //output += " ";
+        // }
         label.setText(output);
     }
 
