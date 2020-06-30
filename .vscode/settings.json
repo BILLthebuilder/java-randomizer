@@ -1,3 +1,7 @@
 {
-    "files.autoSave": "afterDelay"
+    "files.autoSave": "afterDelay",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\bkariri\\Downloads\\mysql-connector-java-8.0.20\\mysql-connector-java-8.0.20\\mysql-connector-java-8.0.20.jar"
+    ]
 }
