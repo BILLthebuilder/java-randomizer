@@ -1,3 +1,5 @@
+package PathFinder.src;
+
 public class Graph {
 
     private int numOfNodes;

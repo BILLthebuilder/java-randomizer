@@ -1,3 +1,5 @@
+package PathFinder.src;
+
 import java.text.CharacterIterator;
 import java.util.HashMap;
 

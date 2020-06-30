@@ -1,3 +1,5 @@
+package PathFinder.src;
+
 public class GraphShow {
     public static void main(String[] args) {
 
