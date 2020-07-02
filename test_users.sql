@@ -1,0 +1,1 @@
+insert into academy values("person 5", "person 5", "human","M",01/01/2000,01/01/2000);
