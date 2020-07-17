@@ -1,3 +1,3 @@
-# java-randomizer
+# java-experiments
 
 Simple java applications
