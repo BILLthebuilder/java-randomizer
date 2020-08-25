@@ -1,0 +1,253 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArrayCopy<java-randomizer_d2e3f976>",
+            "request": "launch",
+            "mainClass": "ArrayCopy",
+            "projectName": "java-randomizer_d2e3f976"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Arrays<java-randomizer_d2e3f976>",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "java-randomizer_d2e3f976"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Average<java-randomizer_d2e3f976>",
+            "request": "launch",
+            "mainClass": "Average",
+            "projectName": "java-randomizer_d2e3f976"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BufferOut<java-randomizer_d2e3f976>",
+            "request": "launch",
+            "mainClass": "BufferOut",
+            "projectName": "java-randomizer_d2e3f976"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CopyArrayclone<java-randomizer_d2e3f976>",
+            "request": "launch",
+            "mainClass": "CopyArrayclone",
+            "projectName": "java-randomizer_d2e3f976"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ExampleSql<java-randomizer_d2e3f976>",
+            "request": "launch",
+            "mainClass": "ExampleSql",
+            "projectName": "java-randomizer_d2e3f976"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FundsHomework<java-randomizer_d2e3f976>",
+            "request": "launch",
+            "mainClass": "FundsHomework",
+            "projectName": "java-randomizer_d2e3f976"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HttpClient<java-randomizer_d2e3f976>",
+            "request": "launch",
+            "mainClass": "HttpClient",
+            "projectName": "java-randomizer_d2e3f976",
+            "args": "<http://localhost:8080>"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HttpMirror<java-randomizer_d2e3f976>",
+            "request": "launch",
+            "mainClass": "HttpMirror",
+            "projectName": "java-randomizer_d2e3f976"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Inputs<java-randomizer_d2e3f976>",
+            "request": "launch",
+            "mainClass": "Inputs",
+            "projectName": "java-randomizer_d2e3f976"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-JaggedArray<java-randomizer_d2e3f976>",
+            "request": "launch",
+            "mainClass": "JaggedArray",
+            "projectName": "java-randomizer_d2e3f976"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinkedHashset<java-randomizer_d2e3f976>",
+            "request": "launch",
+            "mainClass": "LinkedHashset",
+            "projectName": "java-randomizer_d2e3f976"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Login<java-randomizer_d2e3f976>",
+            "request": "launch",
+            "mainClass": "Login",
+            "projectName": "java-randomizer_d2e3f976"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<java-randomizer_d2e3f976>",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java-randomizer_d2e3f976"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Names<java-randomizer_d2e3f976>",
+            "request": "launch",
+            "mainClass": "Names",
+            "projectName": "java-randomizer_d2e3f976"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-One<java-randomizer_d2e3f976>",
+            "request": "launch",
+            "mainClass": "One",
+            "projectName": "java-randomizer_d2e3f976"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GraphShow<java-randomizer_d2e3f976>",
+            "request": "launch",
+            "mainClass": "PathFinder.src.GraphShow",
+            "projectName": "java-randomizer_d2e3f976"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<java-randomizer_d2e3f976>(1)",
+            "request": "launch",
+            "mainClass": "PathFinder.src.Main",
+            "projectName": "java-randomizer_d2e3f976"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Payments<java-randomizer_d2e3f976>",
+            "request": "launch",
+            "mainClass": "Payments",
+            "projectName": "java-randomizer_d2e3f976"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ReadFile<java-randomizer_d2e3f976>",
+            "request": "launch",
+            "mainClass": "ReadFile",
+            "projectName": "java-randomizer_d2e3f976"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StackExample<java-randomizer_d2e3f976>",
+            "request": "launch",
+            "mainClass": "StackExample",
+            "projectName": "java-randomizer_d2e3f976"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TimerClass<java-randomizer_d2e3f976>",
+            "request": "launch",
+            "mainClass": "TimerClass",
+            "projectName": "java-randomizer_d2e3f976"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TreesetVHashset<java-randomizer_d2e3f976>",
+            "request": "launch",
+            "mainClass": "TreesetVHashset",
+            "projectName": "java-randomizer_d2e3f976"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-UserIntArray<java-randomizer_d2e3f976>",
+            "request": "launch",
+            "mainClass": "UserIntArray",
+            "projectName": "java-randomizer_d2e3f976"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-VectorExample<java-randomizer_d2e3f976>",
+            "request": "launch",
+            "mainClass": "VectorExample",
+            "projectName": "java-randomizer_d2e3f976"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-WriteFile<java-randomizer_d2e3f976>",
+            "request": "launch",
+            "mainClass": "WriteFile",
+            "projectName": "java-randomizer_d2e3f976"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-addingArrayElement<java-randomizer_d2e3f976>",
+            "request": "launch",
+            "mainClass": "addingArrayElement",
+            "projectName": "java-randomizer_d2e3f976"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<java-randomizer_d2e3f976>(2)",
+            "request": "launch",
+            "mainClass": "com.arraysort.Main",
+            "projectName": "java-randomizer_d2e3f976"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<java-randomizer_d2e3f976>(3)",
+            "request": "launch",
+            "mainClass": "dbgrants.Main",
+            "projectName": "java-randomizer_d2e3f976"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-implementingListener<java-randomizer_d2e3f976>",
+            "request": "launch",
+            "mainClass": "implementingListener",
+            "projectName": "java-randomizer_d2e3f976"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-myCounter<java-randomizer_d2e3f976>",
+            "request": "launch",
+            "mainClass": "myCounter",
+            "projectName": "java-randomizer_d2e3f976"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-passingArrayToMethod<java-randomizer_d2e3f976>",
+            "request": "launch",
+            "mainClass": "passingArrayToMethod",
+            "projectName": "java-randomizer_d2e3f976"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-returningArrayFromMethod<java-randomizer_d2e3f976>",
+            "request": "launch",
+            "mainClass": "returningArrayFromMethod",
+            "projectName": "java-randomizer_d2e3f976"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-throwException<java-randomizer_d2e3f976>",
+            "request": "launch",
+            "mainClass": "throwException",
+            "projectName": "java-randomizer_d2e3f976"
+        }
+    ]
+}
